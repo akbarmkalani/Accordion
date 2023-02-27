@@ -2,10 +2,14 @@
 
 
 
-![Screenshot (245)](https://user-images.githubusercontent.com/121675616/221571252-fef7c005-893c-430c-a083-e22afb7ecc2f.png)
+![New Project](https://user-images.githubusercontent.com/121675616/221571641-bdf7a572-dc11-4574-9b02-a0ad655b797a.jpg)
+
 
 
 
 [Demo projct]
+Technologys  JavaScript  HTML SCSS
+
+
 
 
